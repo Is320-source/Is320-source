@@ -35,3 +35,5 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![🏆 Trophy Stats](https://github-profile-trophy.vercel.app/?username=Is320-source&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Is320-source)
 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
